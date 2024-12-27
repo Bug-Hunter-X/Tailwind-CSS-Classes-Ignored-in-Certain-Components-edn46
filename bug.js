@@ -1,0 +1,1 @@
+This error occurs when Tailwind CSS directives are not correctly applied within the appropriate scope.  For example, using a Tailwind class within a component that hasn't been configured to use Tailwind's directives, resulting in the class being ignored.
